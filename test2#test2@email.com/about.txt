@@ -1,0 +1,1 @@
+This is the JuFF postbox of test2.$'\n'For verified pubkey, refer to https://github.com/SomajitDey/JuFF-KeyServer.git
