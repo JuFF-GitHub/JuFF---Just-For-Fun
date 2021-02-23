@@ -1,1 +1,2 @@
-This is the JuFF postbox of Somajit.$'\n'For verified pubkey, refer to https://github.com/SomajitDey/JuFF-KeyServer.git
+This is the JuFF postbox of Somajit.
+For verified pubkey, refer to https://github.com/SomajitDey/JuFF-KeyServer.git
